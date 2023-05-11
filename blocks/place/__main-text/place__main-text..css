@@ -1,0 +1,5 @@
+.place__main-text {
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 0;
+  }
