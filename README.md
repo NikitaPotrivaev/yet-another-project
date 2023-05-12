@@ -4,4 +4,4 @@
 ---
 Проект о путешествии по России - одностраничный адаптивный сайт созданный студентом __[Яндекс Практикума](https://practicum.yandex.ru/)__, в котором видно, как проект должен выглядеть на самых распространённых разрешениях экранов.
 ___
-Оцени на Оцени на https://nikitapotrivaev.github.io/yet-another-project/
+Оцени на https://nikitapotrivaev.github.io/yet-another-project/
